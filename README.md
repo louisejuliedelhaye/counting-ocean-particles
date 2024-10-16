@@ -1,2 +1,2 @@
 # counting-ocean-particles
-A set of codes to process data on marine suspended particles collected with different sensors
+This depository contains a set of codes, in the shape of interactive Jupyter Notebooks, to process data on marine suspended particles collected with different sensors. It was developed with the purpose of creating standard processing procedure for data collected in-situ for the Suspended Material and Seabed Monitoring and Modelling group (SUMO) of the Institute of Natural Sciences of Belgium.
