@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this code, please cite it using the following metadata."
+title: "counting-ocean-particles"
+version: "1.0.0"
+date-released: 2025-06-17
+authors:
+  - family-names: Delhaye
+    given-names: Louise
+    orcid: https://orcid.org/0000-0002-3407-6295  
+abstract: >
+  counting-ocean-particles is a project aimed at creating a standard processing procedure for oceanographic data collected using various sensors on board research vessels or other platforms.
+url: "https://github.com/louisejuliedelhaye/counting-ocean-particles" 
