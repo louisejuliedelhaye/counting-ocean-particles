@@ -10,6 +10,8 @@ This file lists all the improvements planned for future versions of the codes.
 - [ ] add option to rename casts
 - [ ] check quality flags
 - [ ] check code logic
+- [ ] add separation surface and bottom
+- [ ] change fontsize graphs
 
 ## LISST-200x:
 - [ ] check automatic outlier detection method
@@ -17,3 +19,5 @@ This file lists all the improvements planned for future versions of the codes.
 - [x] add option to rename casts on 17/06/25 by louisejuliedelhaye
 - [ ] check quality flags
 - [ ] check code logic
+- [ ] add separation surface and bottom
+- [ ] change fontsize graphs
