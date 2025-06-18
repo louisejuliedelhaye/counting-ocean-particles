@@ -9,4 +9,6 @@ authors:
     orcid: https://orcid.org/0000-0002-3407-6295  
 abstract: >
   counting-ocean-particles is a project aimed at creating a standard processing procedure for oceanographic data collected using various sensors on board research vessels or other platforms.
+type: software
 url: "https://github.com/louisejuliedelhaye/counting-ocean-particles" 
+repository-code: "https://github.com/louisejuliedelhaye/counting-ocean-particles"
