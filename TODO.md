@@ -15,6 +15,8 @@ This file lists all the improvements planned for future versions of the codes.
 - [ ] add possibility to enter different coordinates for different casts
 - [ ] color flags in timeseries with outliers
 - [ ] make clean data up to the seconds
+- [ ] add linestyle distinction for PSD per cast
+- [ ] add option to choose color gradients per group of casts
 
 ## LISST-200x rosette:
 - [ ] check automatic outlier detection method
