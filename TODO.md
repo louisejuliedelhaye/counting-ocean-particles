@@ -14,6 +14,7 @@ This file lists all the improvements planned for future versions of the codes.
 - [ ] change fontsize graphs
 - [ ] add possibility to enter different coordinates for different casts
 - [ ] color flags in timeseries with outliers
+- [ ] make clean data up to the seconds
 
 ## LISST-200x rosette:
 - [ ] check automatic outlier detection method
@@ -27,3 +28,4 @@ This file lists all the improvements planned for future versions of the codes.
 - [ ] color flags in timeseries with outliers
 - [ ] adapt timescale on figures with temperature, mean diameter, optical transmission, etc..
 - [x] added option to choose color gradients for certain groups of casts
+- [ ] make clean data up to the seconds
